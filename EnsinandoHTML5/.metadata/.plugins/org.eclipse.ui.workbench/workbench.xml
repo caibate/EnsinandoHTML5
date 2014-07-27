@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="47" version="2.0">
+<workbench progressCount="24" version="2.0">
 <workbenchAdvisor/>
 <window height="874" width="1200" x="29" y="22">
-<fastViewData fastViewLocation="1024">
-<orientation position="512" view="com.aptana.browser.views.webbrowser"/>
-</fastViewData>
+<fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
@@ -12,52 +10,34 @@
 <coolItem id="group.file" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="40" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
-<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="40" y="22"/>
 <coolItem id="org.eclipse.team.ui.actionSet" itemType="typeToolBarContribution" x="40" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="32" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="com.aptana.editor.text" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.compare.CompareEditor" itemType="typePlaceholder" x="76" y="22"/>
-<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1399789278601" focus="true" label="Workspace - Web">
+<page aggregateWorkingSetId="Aggregate for window 1399789278601" focus="true" label="Workspace - Team Synchronizing">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="com.aptana.editor.html" name="teste.html" partName="teste.html" path="/Users/caibate/workspace/EnsinandoHTML5/ExCaelum/teste.html" title="teste.html" tooltip="EnsinandoHTML5/ExCaelum/teste.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EnsinandoHTML5/ExCaelum/teste.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="135"/>
-</editor>
-<editor id="com.aptana.editor.html" name="sobre.html" partName="sobre.html" path="/Users/caibate/workspace/EnsinandoHTML5/ExCaelum/sobre.html" title="sobre.html" tooltip="EnsinandoHTML5/ExCaelum/sobre.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EnsinandoHTML5/ExCaelum/sobre.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="com.aptana.editor.html" name="new_file.html" partName="new_file.html" path="/Users/caibate/workspace/EnsinandoHTML5/ExCaelum/new_file.html" title="new_file.html" tooltip="EnsinandoHTML5/ExCaelum/new_file.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EnsinandoHTML5/ExCaelum/new_file.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
 </editors>
 <views>
-<view id="org.eclipse.team.ui.GenericHistoryView" partName="History">
-<viewState/>
-</view>
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.team.ui.GenericHistoryView" partName="History">
+<viewState/>
 </view>
 <view id="org.eclipse.team.sync.views.SynchronizeView" partName="Synchronize">
 <viewState/>
@@ -65,16 +45,8 @@
 <view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets">
 <viewState/>
 </view>
-<view id="com.aptana.terminal.views.terminal" partName="Terminal">
-<viewState>
-<title>Terminal</title>
-<workingDirectory>/Users/caibate/workspace/EnsinandoHTML5</workingDirectory>
-</viewState>
-</view>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
 <view id="com.aptana.samples.ui.SamplesView" partName="Samples">
-<viewState/>
-</view>
-<view id="com.aptana.browser.views.webbrowser" partName="Web Browser">
 <viewState/>
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
@@ -92,9 +64,12 @@
 </view>
 <view id="com.aptana.explorer.view" partName="App Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="EnsinandoHTML5">
-<project name="EnsinandoHTML5">&#x0A;<expanded>&#x0A;<element path="/EnsinandoHTML5/ExCaelum"/>
+<project name="EnsinandoHTML5">
+<expanded>
+<element path="/EnsinandoHTML5/ExCap1"/>
 </expanded>
-<selection>&#x0A;<element path="/EnsinandoHTML5"/>
+<selection>
+<element path="/EnsinandoHTML5/ExCap1"/>
 </selection>
 </project>
 </viewState>
@@ -115,8 +90,8 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.aptana.terminal.views.terminal" activePerspective="com.aptana.ui.WebPerspective">
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<perspectives activePart="org.eclipse.ui.views.ProblemView" activePerspective="org.eclipse.team.ui.TeamSynchronizingPerspective">
+<perspective editorAreaTrimState="4" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
 <alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
@@ -155,25 +130,31 @@
 <new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <view id="com.aptana.explorer.view"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="com.aptana.terminal.views.terminal"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.team.ui.GenericHistoryView"/>
-<view id="com.aptana.samples.ui.SamplesView"/>
-<view id="com.aptana.snippets.ui.views.SnippetsView"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="terminalArea" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
 <fastViews>
-<view id="com.aptana.browser.views.webbrowser" ratio="0.29949665"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="com.aptana.terminal.views.terminal" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.team.ui.GenericHistoryView" ratio="0.3"/>
 </fastViews>
-<fastViewBars/>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@aa4c7c" orientation="256" selectedTabId="com.aptana.snippets.ui.views.SnippetsView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="com.aptana.samples.ui.SamplesView" ratio="0.3"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
-<mainWindow>
+<mainWindow maximized="left">
 <info folder="true" part="left">
-<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<folder activePageID="com.aptana.explorer.view" appearance="2" expanded="1">
 <page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
 <page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
@@ -190,31 +171,22 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.3254836" ratioLeft="387" ratioRight="802" relationship="2" relative="left"/>
 <info folder="true" part="terminalArea" ratio="0.28244275" ratioLeft="222" ratioRight="564" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="com.aptana.terminal.views.terminal" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
 <page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@aa4c7c" ratio="0.74938875" ratioLeft="613" ratioRight="205" relationship="4" relative="left">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
-<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-</presentation>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </mainWindow>
@@ -248,21 +220,31 @@
 <view id="org.eclipse.ui.views.TaskList"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="top">&#x0A;<folder activePageID="org.eclipse.team.sync.views.SynchronizeView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<layout>
+<mainWindow>
+<info folder="true" part="top">
+<folder activePageID="org.eclipse.team.sync.views.SynchronizeView" appearance="2" expanded="2">
+<page content="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="top">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="top">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.44966444" ratioLeft="536" ratioRight="656" relationship="2" relative="top"/>
-<info folder="true" part="top2" ratio="0.7997465" ratioLeft="631" ratioRight="158" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
+<info folder="true" part="top2" ratio="0.7997465" ratioLeft="631" ratioRight="158" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
@@ -273,39 +255,15 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/EnsinandoHTML5/ExCaelum/teste.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/EnsinandoHTML5/ExCaelum/sobre.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/EnsinandoHTML5/ExCaelum/new_file.html"/>
-</editors>
-<item historyLabel="teste.html" index="0">
-<position/>
-</item>
-<item historyLabel="teste.html" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="teste.html" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="sobre.html" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="teste.html" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="teste.html" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item active="true" historyLabel="new_file.html" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -313,19 +271,12 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@aa4c7c"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="new_file.html" tooltip="EnsinandoHTML5/ExCaelum/new_file.html">
-<persistable path="/EnsinandoHTML5/ExCaelum/new_file.html"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="sobre.html" tooltip="EnsinandoHTML5/ExCaelum/sobre.html">
-<persistable path="/EnsinandoHTML5/ExCaelum/sobre.html"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="teste.html" tooltip="EnsinandoHTML5/ExCaelum/teste.html">
-<persistable path="/EnsinandoHTML5/ExCaelum/teste.html"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="teste.html" tooltip="EnsinandoHTML5/ExCap1/teste.html">
 <persistable path="/EnsinandoHTML5/ExCap1/teste.html"/>
 </file>
